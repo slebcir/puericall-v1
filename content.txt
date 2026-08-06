@@ -1,0 +1,125 @@
+======================================================================
+                   PUERICALL V1 — CONTENU COMPLET DU SITE
+======================================================================
+
+----------------------------------------------------------------------
+1. EN-TÊTE (HEADER)
+----------------------------------------------------------------------
+- Logo principal : assets/full-logo.svg
+- Bouton CTA : "Réserver mon appel"
+
+----------------------------------------------------------------------
+2. SECTION HERO (HAUT DE PAGE)
+----------------------------------------------------------------------
+- Titre principal (H1) : 
+  « Poussette, siège-auto : Achetez uniquement ce dont votre bébé a vraiment besoin. »
+
+- Sous-titre : 
+  « Évitez les erreurs coûteuses. Obtenez un diagnostic personnalisé en visio de 30 min avec un expert de la puériculture. »
+
+- Bouton CTA principal : 
+  "Réserver ma consultation — 30 €"
+
+- Badges de confiance (sous le bouton) :
+  [✓] Sans engagement
+  [✓] Conseils neutres et sans marque
+  [✓] En visio depuis chez vous
+
+----------------------------------------------------------------------
+3. SECTION "POURQUOI PASSER PAR PUERICALL ?"
+----------------------------------------------------------------------
+- Carte 1 — Économie financière : 
+  Titre : Évitez les achats inutiles
+  Texte : Ne dépensez pas des centaines d'euros dans du matériel inadapté à votre logement, votre voiture ou votre mode de vie.
+
+- Carte 2 — Sécurité & Conformité : 
+  Titre : Sécurité garantie
+  Texte : Bénéficiez de conseils d'expert pour choisir du matériel répondant strictement aux dernières normes de sécurité en vigueur.
+
+- Carte 3 — Gain de temps : 
+  Titre : Fini le casse-tête
+  Texte : Gagnez des dizaines d'heures de recherche et dites adieu aux avis contradictoires des forums et réseaux sociaux.
+
+----------------------------------------------------------------------
+4. SECTION "COMMENT ÇA MARCHE ?"
+----------------------------------------------------------------------
+- Étape 1 : 
+  Titre : Choix du créneau
+  Texte : Vous choisissez la date et l'heure qui vous conviennent sur notre calendrier en ligne.
+
+- Étape 2 : 
+  Titre : Validation du rendez-vous
+  Texte : Vous réglez la consultation de 30 € via notre lien sécurisé Revolut pour bloquer votre créneau.
+
+- Étape 3 : 
+  Titre : Consultation Visio
+  Texte : Vous échangez en direct par visio Teams et recevez votre sélection de recommandations sur-mesure.
+
+----------------------------------------------------------------------
+5. SECTION ÉQUIPE / EXPERT
+----------------------------------------------------------------------
+- Nom & Titre : Leandro CHARLES — Expert Puériculture
+- Photo : Composant Silhouette SVG (en attente de la photo officielle)
+- Bio : 
+  « Bonjour, je m'appelle Leandro CHARLES. Après des années à conseiller les parents en magasin de puériculture, j'ai créé PueriCall pour offrir un accompagnement 100 % indépendant, loin de la pression commerciale des marques. »
+
+----------------------------------------------------------------------
+6. SECTION RÉSERVATION (WIDGET CAL.COM + PAIEMENT)
+----------------------------------------------------------------------
+- Composant Embed Cal.com (intégration de l'iframe de réservation)
+
+- Bloc de confirmation de paiement (placé juste sous le widget) :
+  Titre : ⚠️ Validation de votre rendez-vous
+  Texte : 
+  « Une fois votre créneau réservé sur le calendrier ci-dessus, effectuez le règlement de 30 € via notre lien sécurisé pour confirmer votre rendez-vous. »
+  Texte du bouton : "Régler ma consultation (30 € via Revolut)"
+  URL Bouton : https://revolut.me/ton-pseudo/30
+
+----------------------------------------------------------------------
+7. SECTION FAQ (FOIRE AUX QUESTIONS)
+----------------------------------------------------------------------
+- Question 1 : Et si je dois décaler mon rendez-vous ?
+  Réponse : Aucun problème. Vous pouvez modifier ou annuler votre rendez-vous en 1 clic jusqu'à 24h avant l'heure prévue via l'email de confirmation.
+
+- Question 2 : Ai-je besoin d'installer Microsoft Teams ?
+  Réponse : Non. Un simple clic sur le lien reçu par email ouvrira directement la visio dans votre navigateur web, sur téléphone ou ordinateur.
+
+- Question 3 : Proposez-vous des liens affiliés ou des marques partenaires ?
+  Réponse : Non. Nos conseils sont 100 % neutres et désintéressés. Notre seul objectif est de vous orienter vers ce qui convient le mieux à votre budget et vos besoins.
+
+----------------------------------------------------------------------
+8. PIED DE PAGE (FOOTER)
+----------------------------------------------------------------------
+- Logo : assets/full-logo.svg
+- Copyright : © 2026 PueriCall. Tous droits réservés.
+- Crédits : Développé par AuraDev (https://auradev.fr)
+- Lien légal : "Mentions légales & Politique de confidentialité" (Ouvre une modale)
+
+----------------------------------------------------------------------
+9. CONTENU DE LA MODALE LÉGALE (MENTIONS LÉGALES & RGPD)
+----------------------------------------------------------------------
+[MENTIONS LÉGALES]
+
+Éditeur du site :
+Le site PueriCall est édité à titre temporaire par l'entreprise AuraDev.
+- Numéro SIRET : 10542993000016
+- Email de contact : contact@auradev.fr
+- Directeur de la publication : Leandro CHARLES & AuraDev
+
+Hébergement :
+Le site est hébergé par la société Vercel Inc.
+Adresse : 440 N Barranca Ave #4133, Covina, CA 91723, USA
+Site web : https://vercel.com
+
+[POLITIQUE DE CONFIDENTIALITÉ & RGPD]
+
+Gestion des données personnelles :
+Les informations collectées lors de la réservation d'un créneau (Nom, Prénom, adresse email) sont strictement nécessaires à l'organisation et au bon déroulement de la consultation en visioconférence.
+
+- Aucune donnée personnelle n'est vendue, cédée ou transmise à des tiers.
+- Les données sont traitées via la plateforme sécurisée Cal.com.
+- Conformément au Règlement Général sur la Protection des Données (RGPD), vous disposez d'un droit d'accès, de rectification et de suppression de vos données en contactant : contact@auradev.fr.
+
+Cookies & Traceurs :
+Ce site n'utilise aucun cookie publicitaire ni aucun traceur de suivi comportemental. Aucun bandeau de consentement n'est requis.
+======================================================================
