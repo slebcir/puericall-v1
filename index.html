@@ -155,22 +155,6 @@
           </a>
         </div>
 
-        <!-- Badges de réassurance -->
-        <div class="flex flex-wrap items-center justify-center gap-y-3 gap-x-6 pt-6 border-t border-slate-100 text-xs sm:text-sm font-semibold text-slate-700">
-          <div class="flex items-center gap-2 bg-slate-50 px-3 py-1.5 rounded-full border border-slate-200/60">
-            <div class="w-5 h-5 rounded-full bg-[#A8E6CF] flex items-center justify-center text-[#0C0C35] font-black text-xs">✓</div>
-            <span>Sans engagement</span>
-          </div>
-          <div class="flex items-center gap-2 bg-slate-50 px-3 py-1.5 rounded-full border border-slate-200/60">
-            <div class="w-5 h-5 rounded-full bg-[#A8E6CF] flex items-center justify-center text-[#0C0C35] font-black text-xs">✓</div>
-            <span>Conseils neutres et sans marque</span>
-          </div>
-          <div class="flex items-center gap-2 bg-slate-50 px-3 py-1.5 rounded-full border border-slate-200/60">
-            <div class="w-5 h-5 rounded-full bg-[#A8E6CF] flex items-center justify-center text-[#0C0C35] font-black text-xs">✓</div>
-            <span>En visio depuis chez vous</span>
-          </div>
-        </div>
-
       </div>
     </section>
 
@@ -179,16 +163,13 @@
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         
         <!-- Header Section -->
-        <div class="text-center max-w-3xl mx-auto mb-12 md:mb-16">
+        <div class="text-center max-w-3xl mx-auto mb-8 md:mb-10">
           <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-mint/20 text-navy text-xs font-bold uppercase tracking-wider mb-4">
             Avantages Parents
           </div>
           <h2 class="text-3xl sm:text-4xl font-extrabold text-navy tracking-tight">
             Pourquoi passer par PueriCall ?
           </h2>
-          <p class="text-slate-600 text-base md:text-lg mt-4">
-            Un accompagnement neutre conçu pour vous faire gagner du temps, de l'argent et vous offrir une tranquillité d'esprit absolue.
-          </p>
         </div>
 
         <!-- 3 Cards Grid -->
@@ -638,12 +619,6 @@
           }
         });
       });
-
-      // Open first FAQ item by default for better engagement
-      const firstFaq = document.querySelector('.faq-item');
-      if (firstFaq) {
-        firstFaq.classList.add('active');
-      }
 
       // 2. LEGAL MODAL LOGIC
       const legalModal = document.getElementById('legal-modal');
